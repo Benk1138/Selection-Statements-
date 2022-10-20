@@ -1,0 +1,15 @@
+/Users/benkunkel/Projects/Selections/Selections/bin/Debug/net6.0/Selections
+/Users/benkunkel/Projects/Selections/Selections/bin/Debug/net6.0/Selections.deps.json
+/Users/benkunkel/Projects/Selections/Selections/bin/Debug/net6.0/Selections.runtimeconfig.json
+/Users/benkunkel/Projects/Selections/Selections/bin/Debug/net6.0/Selections.dll
+/Users/benkunkel/Projects/Selections/Selections/bin/Debug/net6.0/Selections.pdb
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.AssemblyInfo.cs
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.csproj.CoreCompileInputs.cache
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.dll
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/refint/Selections.dll
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.pdb
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/Selections.genruntimeconfig.cache
+/Users/benkunkel/Projects/Selections/Selections/obj/Debug/net6.0/ref/Selections.dll
